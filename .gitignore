@@ -5,6 +5,7 @@
 ### Custom ###
 https
 .data
+.logs
 
 ### Node ###
 # Logs
