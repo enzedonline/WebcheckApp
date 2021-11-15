@@ -25,7 +25,6 @@ app.init = function(){
     cli.init();
   },50);
 
-
 };
 
 // Self executing
